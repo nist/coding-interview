@@ -7,10 +7,16 @@ This is correct : `(())` This is incorrect : `(()`, `)(`.**
 
 **3. Write a recursive process.**
 
-**4. Find if a year is an odd year.**
+**4. Find if a year is an leap year.**
 
 **5. Determine if the json is valid.**
 
 **6. Find the highest value in a array.**
 
 **7. Return the difference between two hashes.**
+
+**8. Implement a stack.**
+
+**9. Implement a single linked list.**
+
+**10. Implement a substraction without using the `-` operator.**

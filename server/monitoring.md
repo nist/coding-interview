@@ -9,3 +9,4 @@
 **7. Where are the logs on linux ?**
 **8. How to start, stop and check the status of a service on Linux ?**
 **9. How to monitor deployment ?**
+**10. How to ensure a server or a container is responding ?**
