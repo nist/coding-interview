@@ -14,7 +14,10 @@ Redis offer more complex data type, a language to query and manipulate data and 
 **6. What is the condition to get the best performance ?**
 Store the full database in memory.
 **7. How do we store a key ?**
+With the command `set`. 
 **8. How do we retrieve a key ?**
+With the command `get`.
 **9. What happens if there's no more memory available ?**
 The oldest data is replaced by the newest.
 **10. How do we monitor the state of Redis ?**
+The command `monitor` allows to monitor Redis.
