@@ -19,7 +19,7 @@ GitHub is more popular than GitLab.
 A tag is just a name given to a specific point in the timeline in the history of a repository.
 A branch is a split in the timeline of the repository.
 **7.How can a commit can be edited ?**
-
+`git commit --amend`
 **8.How to delete a branch ?**
 Locally : `git -d [branch name]`
 Remote : `git push :[branch name]` 
@@ -34,6 +34,7 @@ Apply the change history to the local repository.
 **11.Where is the configuration ?**
 `.git/config`
 **12.What does git blame ?**
+Show the last commit and commiter for each line of the specified file. 
 **13.What is a git hook ?**
 A way to execute code when a action is done, like when code is pushed to the repository.
 **14.What are GitHub actions ?**

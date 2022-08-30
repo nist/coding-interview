@@ -9,7 +9,7 @@ For *p*rint *w*orking *d*irectory
 **3. Where is the history of commands ?**
 On bash, `~/.bash_history`
 **4. What does the command `su` ?**
-*S*with *u*ser
+*S*ubstitute *u*ser
 Allow to log with the specified user.
 If no user is specified, log with root.
 The password will be asked.
