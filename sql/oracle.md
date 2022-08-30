@@ -14,8 +14,8 @@ Cons :
 **4. How to know the way a SQL is process by the server ?**
 EXPLAIN PLAN [SQL code];
 **5. What is a container ?**
-
-**6. What is a pluggable database ?**
+A container is a collection of schemas and objects.
+**6. What is a pluggable database ?* 
 A pluggable database is a database that can be put in a container and move around different instance of Oracle.
 **7. What does the function `nvl` ?**
 Null Value : allow to replace null values with a given value.
